@@ -1,5 +1,5 @@
 # Guarden
-A mobile application using Plant disease Recognition  
+A mobile application for Plant disease Recognition  
 
 ## Screenshots
 ![](Screenshots/home_page.png)
