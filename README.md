@@ -2,12 +2,12 @@
 A mobile application using Plant disease Recognition  
 
 ## Screenshots
-![](Screenshots/home page.png)
+![](Screenshots/home_page.png)
 <br>
-![](Screenshots/selection page.png)
+![](Screenshots/selection_page.png)
 <br>
-![](Screenshots/gallery page.png)
+![](Screenshots/gallery_page.png)
 <br>
-![](Screenshots/details page.png)
+![](Screenshots/details_page.png)
 <br>
-![](Screenshots/not leaf page.png)
+![](Screenshots/not_leaf_page.png)
