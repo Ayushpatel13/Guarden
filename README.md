@@ -2,7 +2,7 @@
 A mobile application for Plant disease Recognition  
 
 ## Screenshots
-![](Screenshots/home_page.png)
+![](ss.webp)
 ![](Screenshots/selection_page.png)
 ![](Screenshots/gallery_page.png)
 ![](Screenshots/details_page.png)
