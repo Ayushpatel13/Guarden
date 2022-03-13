@@ -1,5 +1,3 @@
-# Guarden
-
 # Objective
 To create the plant disease detection platform that will use deep learning technologies to provide new level of service to farmer’s community.
 
