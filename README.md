@@ -1,3 +1,13 @@
+## Table of contents
+* <a href="#Objective">Objective</a>
+* <a href="#Problem Statement">Problem Statement</a>
+* <a href="#Abstract">Abstract</a>
+* <a href="#Flowchart">Flowchart</a>
+* <a href="#Proposed Design">Proposed Design</a>
+* <a href="#Model Architecture">Model Architecture</a>
+* <a href="#Conclusion">Conclusion</a>
+* <a href="#Screenshots">Screenshots</a>
+
 # Objective
 To create the plant disease detection platform that will use deep learning technologies to provide new level of service to farmer’s community.
 
@@ -18,6 +28,7 @@ Limitations
 
 # Model Architecture
 ![](model_arch.png)
+
 # Conclusion
 A lot of smallholders sometimes cannot recognize the disease their crops are suffering from, so our application is a helper to the farmers who are unaware of the disease and its cure. Our application has a user-friendly interface which makes it easy to use even for a farmer.  
 
