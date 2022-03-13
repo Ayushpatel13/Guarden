@@ -7,6 +7,9 @@ Crop losses are a major threat to the wellbeing of rural families, to the econom
 # Abstract
 Plant diseases and pests cause the loss of 15 to 30 % of the annual harvests. Suffering farmers are the results. We believe that smart farming is the solution. Working with artificial intelligence and image recognition our application can help farmers worldwide to protect their plants. Together we can ensure a safe food production for us and the generations to come! Our App Guarden for smart phones detects damage on plants with the help of smart phone image. By taking a simple picture with your smartphone, Guarden can help you to protect your plants from diseases, pests and the lack of nutrition.  It gives you a lot of expert information - ranging from the diagnosis of plant damages to different treatments and preventive measures. Every plant disease, pest, or nutrient deficiency leaves a specific pattern to which our application quickly learns to detect with up to 90% accuracy. With our software, we can provide customized solutions for every need.
 
+# Flowchart
+![](flowchart_app.png)
+
 # Proposed Design
 M obile internet connectivity enables uploading of image to a cloud based server where our classification model consist of deep neural nets are used to process the optical patterns and detect the diseases .This information is conveyed back to the user within few seconds along with suggested knowledge on disease management including biological and chemical control methods.
 Limitations
