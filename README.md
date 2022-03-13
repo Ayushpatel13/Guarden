@@ -3,7 +3,7 @@
 * <a href="#Problem Statement">Problem Statement</a>
 * <a href="#Abstract">Abstract</a>
 * <a href="#Flowchart">Flowchart</a>
-* <a href="#Proposed Design">Proposed Design</a>
+* <a href="#Proposed%Design">Proposed Design</a>
 * <a href="#Model Architecture">Model Architecture</a>
 * <a href="#Conclusion">Conclusion</a>
 * <a href="#Screenshots">Screenshots</a>
