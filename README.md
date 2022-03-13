@@ -4,7 +4,7 @@
 * <a href="#Abstract">Abstract</a>
 * <a href="#Flowchart">Flowchart</a>
 * <a href="#Proposed%20Design">Proposed Design</a>
-* <a href="#Model Architecture">Model Architecture</a>
+* <a href="#Model_Architecture">Model_Architecture</a>
 * <a href="#Conclusion">Conclusion</a>
 * <a href="#Screenshots">Screenshots</a>
 
