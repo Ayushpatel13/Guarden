@@ -21,7 +21,7 @@ Plant diseases and pests cause the loss of 15 to 30 % of the annual harvests. Su
 ![](flowchart_app.png)
 
 <h2 id="Proposed Design">Proposed Design</h2>
-M obile internet connectivity enables uploading of image to a cloud based server where our classification model consist of deep neural nets are used to process the optical patterns and detect the diseases .This information is conveyed back to the user within few seconds along with suggested knowledge on disease management including biological and chemical control methods.
+Mobile internet connectivity enables uploading of image to a cloud based server where our classification model consist of deep neural nets are used to process the optical patterns and detect the diseases .This information is conveyed back to the user within few seconds along with suggested knowledge on disease management including biological and chemical control methods.
 
 ## Model_Architecture
 ![](model_arch.png)
