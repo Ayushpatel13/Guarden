@@ -13,6 +13,8 @@ Limitations
 •	Due to limited image dataset our AI model cannot classify  all the diseases.
 •	Output may be incorrect if the image is blur or if image not focuses on the part of leaf which is affected by disease. 
 
+# Model Architecture
+![](model_arch.png)
 # Conclusion
 A lot of smallholders sometimes cannot recognize the disease their crops are suffering from, so our application is a helper to the farmers who are unaware of the disease and its cure. Our application has a user-friendly interface which makes it easy to use even for a farmer.  
 
